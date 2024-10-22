@@ -6,6 +6,9 @@
     },
     "hemiSepolia": {
       "DescendingPriceAuction": "0xD8039420f1A61D0930127B89ab7Be23a7f21cd77"
+    },
+    "hemi": {
+      "DescendingPriceAuction": "0x013C3566C9Fca4A25db69cDB85175D9C2d05f8a0"
     }
   }
 }
