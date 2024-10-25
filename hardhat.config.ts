@@ -92,8 +92,8 @@ const config: HardhatUserConfig = {
         network: 'hemi',
         chainId: 43111,
         urls: {
-          apiURL: 'https://explorer.hemi.xyz/api',
-          browserURL: 'https://explorer.hemi.xyz',
+          apiURL: 'https://explorer.letshamsterdance.xyz/api',
+          browserURL: 'https://explorer.letshamsterdance.xyz',
         },
       },
     ],
